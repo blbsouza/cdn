@@ -1,0 +1,13 @@
+body{width:100%;margin:0;padding:0;font-family:calibri;text-align:center;}
+.head{position:relative;width:95%;background:#bbb;margin:auto;border-bottom:2px solid #000;}
+.head h1, .head h2{font-size:2.5vw;color:#fff;padding:0;margin:0;}
+.head h2 {color: #000}
+.head h2 span{color: #888}
+.head h5{font-size:15px;margin:0;padding:0;color:#666;}
+#logoatac, #logorub{height:90%;position:absolute;top:2px;filter:grayscale(100%);}
+#logoatac{left:.5vw;}
+#logorub{right:.5vw;}
+table{width:95%;border-collapse:collapse;margin:auto;border-spacing:0;text-align:center;border-bottom:2px solid #000;color:#666;}
+table th{background:#666;color:#fff;font-size:12px;padding:5px 0;}
+table td{font-size:11px;text-transform:uppercase;border:1px solid #ddd;padding:2px 0;}
+table tr:nth-of-type(even){background:#ccc;color:#000;}
