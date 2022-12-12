@@ -1,7 +1,10 @@
 {
     "logoAtacadao": "https://drive.google.com/uc?export=download&id=1Ax4Vi4ckOmemyuQb05O_AKnec1Toy5o5",
     "myLogo": "https://drive.google.com/uc?export=download&id=1urCMYzzmakAv7jXra2-2OXTsWXJlQokQ",
-    "logoPrevperdas": "https://drive.google.com/uc?export=download&id=1rk-8qOYShplxHRcN8xK1C2loAAp4PU3N",
+    "prevperdas": {
+        "version": "8.5",
+        "logo": "https://drive.google.com/uc?export=download&id=1rk-8qOYShplxHRcN8xK1C2loAAp4PU3N"
+    },
     "bg": {
         "wp1": "https://drive.google.com/uc?export=download&id=1TTVpn-a0LBVP3RhCj3EUEfw0FeWLRZnM",
         "wp2": "https://drive.google.com/uc?export=download&id=1Ptw0mS_GBaORt3RQyQH2li9zjo5LsVwR",
@@ -96,9 +99,6 @@
         "Win 11 Light"
     ],
     "product": [{
-        "name": "prevperdas", "version": "8.5", "link": "", "icon": "logoPrevperdas"
-    }],
-    "prevperdas": {
-        "version": "8.5"
-    }
+        "name": "prevperdas", "version": "8.5", "link": "", "icon": "prevperdas.logo"
+    }]
 }
