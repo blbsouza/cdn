@@ -99,7 +99,6 @@
         "name": "prevperdas", "version": "8.5", "link": "", "icon": "logoPrevperdas"
     }],
     "prevperdas": {
-        "version": 8.5
-    
+        "version": "8.5"
     }
 }
