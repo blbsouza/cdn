@@ -1,0 +1,180 @@
+{
+    "logoAtacadao": "https://drive.google.com/uc?export=download&id=1Ax4Vi4ckOmemyuQb05O_AKnec1Toy5o5",
+    "myLogo": "https://drive.google.com/uc?export=download&id=1Tc_Q34k2rolbyuS7TPsu5AqLnJXGT35E",
+    "prevperdas": {
+        "version": 8.6,
+        "logo": "https://drive.google.com/uc?export=view&id=1rk-8qOYShplxHRcN8xK1C2loAAp4PU3N",
+        "link": "https://blbtech-prevperdas.netlify.app/landing-page.html",
+        "download": "https://drive.google.com/file/d/1FDqKwQfozvgLDcP9jWbWFIBgF1OF90z0/view?usp=share_link",
+        "amostra": "https://blbtech-prevperdas.netlify.app/",
+        "help": "https://blbtech-prevperdas.netlify.app/help.html"
+    },
+    "doclider": {
+        "version": 6.0,
+        "logo": "https://drive.google.com/uc?export=view&id=1CwUsBDxOabp4GKx4D_7rFcZZj9zqrdjl",
+        "link": "https://blbtech-doclider.netlify.app/landing-page.html",
+        "download": "https://blbtech-doclider.netlify.app/",
+        "amostra": "https://blbtech-doclider.netlify.app/",
+        "help": "https://blbtech-doclider.netlify.app/help.html"
+    },
+    "ctrlcoletor": {
+        "version": 1.1,
+        "logo": "https://drive.google.com/uc?export=view&id=1zloqjmsT3aOf2xvfcxuodlIIYbRYkUK1",
+        "link": "https://blbtech-ctrlcoletor.netlify.app/landing-page.html",
+        "download": "https://blbtech-ctrlcoletor.netlify.app/",
+        "amostra": "https://blbtech-ctrlcoletor.netlify.app/",
+        "help": "https://blbtech-ctrlcoletor.netlify.app/help.html"
+    },
+    "walls": [
+        {
+            "name": "Atacadão 1",
+            "bg": "https://drive.google.com/uc?export=download&id=1TTVpn-a0LBVP3RhCj3EUEfw0FeWLRZnM",
+            "mini": "https://drive.google.com/uc?export=download&id=1V4XfLYTL-_RsKzqve-KTZh8o8_LLFBIA"
+        },
+        {
+            "name": "Atacadão 2",
+            "bg": "https://drive.google.com/uc?export=download&id=1Ptw0mS_GBaORt3RQyQH2li9zjo5LsVwR",
+            "mini": "https://drive.google.com/uc?export=download&id=1OahU0t4YrdnQTOziUuaCp1eVq0ScjqDy"
+        },
+        {
+            "name": "Mountain",
+            "bg": "https://drive.google.com/uc?export=download&id=17EvNGzBKMKt13w9DePzYWY-1RZ_nJDp_",
+            "mini": "https://drive.google.com/uc?export=download&id=1srMLeo_IEiK9TdS72DbAfKDDR3Q09iz-"
+        },
+        {
+            "name": "Dark Forest",
+            "bg": "https://drive.google.com/uc?export=download&id=1lZ6oZ6aCmc9OfOnAAsmcqW6XjiFAp2DR",
+            "mini": "https://drive.google.com/uc?export=download&id=1ECIRlDVP65C-VgSfKXngUvLEHXUFERRN"
+        },
+        {
+            "name": "Galaxy",
+            "bg": "https://drive.google.com/uc?export=download&id=19TQ-NHHEGpuBCSIA9SMR2GpyCPu2Jj3C",
+            "mini": "https://drive.google.com/uc?export=download&id=1DUAOPX1RtlZVhCrwpYIxzorHBtnza3LE"
+        },
+        {
+            "name": "Cold",
+            "bg": "https://drive.google.com/uc?export=download&id=1jrPtbCiRq5Tea0iMX6k0ZvLXUfUOWVuR",
+            "mini": "https://drive.google.com/uc?export=download&id=1kczFcpRESD8XKb-LtblQ4Kbuy3cuIzHE"
+        },
+        {
+            "name": "Abstract",
+            "bg": "https://drive.google.com/uc?export=download&id=1CEdS-UKL2q5t5HQHsEB60XdiooveQJ1d",
+            "mini": "https://drive.google.com/uc?export=download&id=1NsQYWLiuNtQPHhOyPzQcu7HDNRY9h_pf"
+        },
+        {
+            "name": "Leaves",
+            "bg": "https://drive.google.com/uc?export=download&id=1OS20WSbrl0laLmmlyVg1F8ZkmHyHX1kL",
+            "mini": "https://drive.google.com/uc?export=download&id=1E6Inb5VSFcf3abBEp5Xd2SxsffjQThcP"
+        },
+        {
+            "name": "Tectonic",
+            "bg": "https://drive.google.com/uc?export=download&id=1mmMHFbV4JceTRndBDTLhUPzNcOz6u1It",
+            "mini": "https://drive.google.com/uc?export=download&id=1yrr844XtM3oF0wMdKFTiHQqSPVWi5zA_"
+        },
+        {
+            "name": "Flower",
+            "bg": "https://drive.google.com/uc?export=download&id=1mR1_khkyn9QzCMQnSs_BKmCP60nrrWvh",
+            "mini": "https://drive.google.com/uc?export=download&id=1rphSgfkOMK5MTJ0oKvmONPgh46FWT7PS"
+        },
+        {
+            "name": "Tiger",
+            "bg": "https://drive.google.com/uc?export=download&id=1ZY9p8cZNUN--K2oI6J6g1boKLgPjmE0J",
+            "mini": "https://drive.google.com/uc?export=download&id=1OufYbMTeQIVhC9Fw4DDE1oH-7VtwIaGx"
+        },
+        {
+            "name": "Leopard",
+            "bg": "https://drive.google.com/uc?export=download&id=1xzjBZBuLo0_ly2dtJf0XEPirnVV-LY8r",
+            "mini": "https://drive.google.com/uc?export=download&id=14wWhC9kV42kEqvMcJodZdUyIBEkgrRj3"
+        },
+        {
+            "name": "Lion",
+            "bg": "https://drive.google.com/uc?export=download&id=14VYuZ_mZqZjUN1xgqVl4dmNL10P2q8cb",
+            "mini": "https://drive.google.com/uc?export=download&id=1MOkeoJgQ6LuDnkdehQe3-HZPGFvJrxgt"
+        },
+        {
+            "name": "Mountain Lion",
+            "bg": "https://drive.google.com/uc?export=download&id=1ldJIJPIjm5Nc1KouGOay4DpEqRtq3QyH",
+            "mini": "https://drive.google.com/uc?export=download&id=1IzZxZWdovFET09HeYoHEmvGF7a9897RH"
+        },
+        {
+            "name": "Mavericks",
+            "bg": "https://drive.google.com/uc?export=download&id=1FxcLH8qJPdFN4YWcdREpoIA3gqPyZ3C8",
+            "mini": "https://drive.google.com/uc?export=download&id=1vMK1YNqU9oEAB4kDECXwB8pcbOBk9wIo"
+        },
+        {
+            "name": "Yosemite",
+            "bg": "https://drive.google.com/uc?export=download&id=1cI3f_RWOl-IKy18ANcTQF-pNPbqjOhIH",
+            "mini": "https://drive.google.com/uc?export=download&id=1T80_9tbJ13TEFOsNnhr4etFopB9NbwKa"
+        },
+        {
+            "name": "El Captain",
+            "bg": "https://drive.google.com/uc?export=download&id=1GEZRw2aFE61lhAwtIJ_tAis0Y1PHZtps",
+            "mini": "https://drive.google.com/uc?export=download&id=1Itj00hX46VnvSANy_xiXMSbSzUi14Zxj"
+        },
+        {
+            "name": "Sierra",
+            "bg": "https://drive.google.com/uc?export=download&id=1v8txMW0rOWQI3QW7fJOoh393ryK62V7A",
+            "mini": "https://drive.google.com/uc?export=download&id=1k2z6Gski13nrI00wjhmuncrHdhAg02sV"
+        },
+        {
+            "name": "Hight Sierra",
+            "bg": "https://drive.google.com/uc?export=download&id=1IHOm27bB6_mKB6cuNxEj3FgYM3GVyRpO",
+            "mini": "https://drive.google.com/uc?export=download&id=17jUcHiKVxgkbALCdR3D2V1AUyWtWELO7"
+        },
+        {
+            "name": "Mojave Day",
+            "bg": "https://drive.google.com/uc?export=download&id=1eSaugIT9f9xzeIAVFSdsS1PzGre3rqV9",
+            "mini": "https://drive.google.com/uc?export=download&id=164YTeo2v-o2zcjMNIec8yZpjXe6QHO9O"
+        },
+        {
+            "name": "Mojave Night",
+            "bg": "https://drive.google.com/uc?export=download&id=1SQWRBC-Vl9xMNuQsg2OmyL3F_eAXRLv6",
+            "mini": "https://drive.google.com/uc?export=download&id=17OchUq2P5oAZ_lAN8FYUFbSzDx6ppJBJ"
+        },
+        {
+            "name": "Catalina Day",
+            "bg": "https://drive.google.com/uc?export=download&id=1s-avdcx3THx7liP2aY7AxlI8LzT57b88",
+            "mini": "https://drive.google.com/uc?export=download&id=17knM8Na44DUtM6_Nbrk8DyMsCMNolB33"
+        },
+        {
+            "name": "Catalina Night",
+            "bg": "https://drive.google.com/uc?export=download&id=1Lyqqu4r5ZVtfWk_hMbIbS3EWXFHk77mQ",
+            "mini": "https://drive.google.com/uc?export=download&id=1eCwZpD63j19aFJbMP4y1N01gosldImf-"
+        },
+        {
+            "name": "Big Sur Day",
+            "bg": "https://drive.google.com/uc?export=download&id=12wfOF9img_NRxy5eBdX81HTK98geZP2Y",
+            "mini": "https://drive.google.com/uc?export=download&id=1m96PwhUAd4vRgnDVUkFTc7dLK2Xe8uOQ"
+        },
+        {
+            "name": "Big Sur Night",
+            "bg": "https://drive.google.com/uc?export=download&id=1eVbpKVlvjPUVBf-eBPMI-AE-veTn0tzh",
+            "mini": "https://drive.google.com/uc?export=download&id=1vBFBEDy4dL6oES-s9p-1KAvynU3nnmna"
+        },
+        {
+            "name": "Monterey",
+            "bg": "https://drive.google.com/uc?export=download&id=134Aazl2CC43YZO7rdfBlck6IVF-UQXa2",
+            "mini": "https://drive.google.com/uc?export=download&id=11hqSQVA6mFPy_vPFmgndFlkR9O3rnNY_"
+        },
+        {
+            "name": "Ventura",
+            "bg": "https://drive.google.com/uc?export=download&id=1kS5HJW4E6wpCGl6xi5iIy50yYojmTW9V",
+            "mini": "https://drive.google.com/uc?export=download&id=1JTp_OApFDKQm7qcG7SexLshCj_dh4xK-"
+        },
+        {
+            "name": "Win 11 Dark",
+            "bg": "https://drive.google.com/uc?export=download&id=1XIpUE5c94K6NUn7FX2c4r1d9jovBXgGz",
+            "mini": "https://drive.google.com/uc?export=download&id=14c6h_PZHVxeTZt71C1R45iLY6QVlvYte"
+        },
+        {
+            "name": "Win 11 Light",
+            "bg": "https://drive.google.com/uc?export=download&id=1SQmeI3HqCXD0Yd9Ze9HA6a6d0uKUowp8",
+            "mini": "https://drive.google.com/uc?export=download&id=1PLpIHpYpQpDb6OU3RbpotLZNIQhREVx4"
+        }
+    ],
+    "product": [
+      {"name": "prevperdas"},
+      {"name": "doclider"}
+    ],
+    "contact": { "mail": "blbsouza11@gmail.com", "phone": "(85) 9 9989-6712" }
+}
