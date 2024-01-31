@@ -1,9 +1,9 @@
 {
-    "logoAtacadao": "https://drive.google.com/uc?export=download&id=1Ax4Vi4ckOmemyuQb05O_AKnec1Toy5o5",
-    "myLogo": "https://drive.google.com/uc?export=download&id=1Tc_Q34k2rolbyuS7TPsu5AqLnJXGT35E",
+    "logoAtacadao": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Flogoatacadao.svg?alt=media&token=cb696b29-951a-4064-8210-96cb21852485",
+    "myLogo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2FmyLogo-3.svg?alt=media&token=9f769a53-0fe3-4bc7-a29e-f73546bb5c51",
     "prevperdas": {
         "version": 8.6,
-        "logo": "https://drive.google.com/uc?export=view&id=1rk-8qOYShplxHRcN8xK1C2loAAp4PU3N",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Fpuzzlecolor.svg?alt=media&token=1afd76dc-e64d-4d4c-a758-fef182dd01e8",
         "link": "https://blbtech-prevperdas.netlify.app/landing-page.html",
         "download": "https://drive.google.com/file/d/1FDqKwQfozvgLDcP9jWbWFIBgF1OF90z0/view?usp=share_link",
         "amostra": "https://blbtech-prevperdas.netlify.app/",
@@ -11,7 +11,7 @@
     },
     "doclider": {
         "version": 6.0,
-        "logo": "https://drive.google.com/uc?export=view&id=1CwUsBDxOabp4GKx4D_7rFcZZj9zqrdjl",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Fdoclider.svg?alt=media&token=f2697580-8bf4-44cd-ba93-92de33c1515b",
         "link": "https://blbtech-doclider.netlify.app/landing-page.html",
         "download": "https://blbtech-doclider.netlify.app/",
         "amostra": "https://blbtech-doclider.netlify.app/",
@@ -19,7 +19,7 @@
     },
     "ctrlcoletor": {
         "version": 1.1,
-        "logo": "https://drive.google.com/uc?export=view&id=1zloqjmsT3aOf2xvfcxuodlIIYbRYkUK1",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Flogo-ctrlcoletor.svg?alt=media&token=400d4c3a-9622-42b3-82e2-3905753ebc2d",
         "link": "https://blbtech-ctrlcoletor.netlify.app/landing-page.html",
         "download": "https://blbtech-ctrlcoletor.netlify.app/",
         "amostra": "https://blbtech-ctrlcoletor.netlify.app/",
@@ -28,148 +28,148 @@
     "walls": [
         {
             "name": "Atacadão 1",
-            "bg": "https://drive.google.com/uc?export=download&id=1TTVpn-a0LBVP3RhCj3EUEfw0FeWLRZnM",
-            "mini": "https://drive.google.com/uc?export=download&id=1V4XfLYTL-_RsKzqve-KTZh8o8_LLFBIA"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp1.jpg?alt=media&token=5ce55fe7-ddab-4139-80e1-0ee19cac2289",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp1_mini.jpg?alt=media&token=c198caa3-eaba-418d-a49f-d6c1c15c63c1"
         },
         {
             "name": "Atacadão 2",
-            "bg": "https://drive.google.com/uc?export=download&id=1Ptw0mS_GBaORt3RQyQH2li9zjo5LsVwR",
-            "mini": "https://drive.google.com/uc?export=download&id=1OahU0t4YrdnQTOziUuaCp1eVq0ScjqDy"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp2.jpg?alt=media&token=55a5086d-90ee-4368-88d9-88e9af10a661",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp2_mini.jpg?alt=media&token=3c592fb6-8928-4cdd-b0af-05658a9698f1"
         },
         {
             "name": "Mountain",
-            "bg": "https://drive.google.com/uc?export=download&id=17EvNGzBKMKt13w9DePzYWY-1RZ_nJDp_",
-            "mini": "https://drive.google.com/uc?export=download&id=1srMLeo_IEiK9TdS72DbAfKDDR3Q09iz-"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp3.jpg?alt=media&token=c81ebd98-21dc-426c-a3f9-40ede575d102",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp3_mini.jpg?alt=media&token=7cdbc649-2536-4165-b0ab-56438f76e7d8"
         },
         {
             "name": "Dark Forest",
-            "bg": "https://drive.google.com/uc?export=download&id=1lZ6oZ6aCmc9OfOnAAsmcqW6XjiFAp2DR",
-            "mini": "https://drive.google.com/uc?export=download&id=1ECIRlDVP65C-VgSfKXngUvLEHXUFERRN"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp4.jpg?alt=media&token=355af78e-5bf7-45ac-9813-94e2f937bf00",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp4_mini.jpg?alt=media&token=9d83d5b0-85f6-4126-ad9e-734f731e3f8a"
         },
         {
             "name": "Galaxy",
-            "bg": "https://drive.google.com/uc?export=download&id=19TQ-NHHEGpuBCSIA9SMR2GpyCPu2Jj3C",
-            "mini": "https://drive.google.com/uc?export=download&id=1DUAOPX1RtlZVhCrwpYIxzorHBtnza3LE"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp5.jpg?alt=media&token=2d0e29cb-ebf4-4f0b-8f1a-8f039d2d7cef",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp5_mini.jpg?alt=media&token=ee0d18a1-216d-4da7-8f22-8bf3447675e3"
         },
         {
             "name": "Cold",
-            "bg": "https://drive.google.com/uc?export=download&id=1jrPtbCiRq5Tea0iMX6k0ZvLXUfUOWVuR",
-            "mini": "https://drive.google.com/uc?export=download&id=1kczFcpRESD8XKb-LtblQ4Kbuy3cuIzHE"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp6.jpg?alt=media&token=4c055545-8aad-4e71-b4a5-db7e48f12db5",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp6_mini.jpg?alt=media&token=a3246aa8-9fb5-4f65-8581-5936075c2b8a"
         },
         {
             "name": "Abstract",
-            "bg": "https://drive.google.com/uc?export=download&id=1CEdS-UKL2q5t5HQHsEB60XdiooveQJ1d",
-            "mini": "https://drive.google.com/uc?export=download&id=1NsQYWLiuNtQPHhOyPzQcu7HDNRY9h_pf"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp7.jpg?alt=media&token=8c8f4fac-38d7-4b90-af3b-f231e27b685a",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp7_mini.jpg?alt=media&token=34a30838-6d1a-45fc-8835-54497f0c0958"
         },
         {
             "name": "Leaves",
-            "bg": "https://drive.google.com/uc?export=download&id=1OS20WSbrl0laLmmlyVg1F8ZkmHyHX1kL",
-            "mini": "https://drive.google.com/uc?export=download&id=1E6Inb5VSFcf3abBEp5Xd2SxsffjQThcP"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp8.jpg?alt=media&token=fd0d0c0d-61f1-452d-8d87-b972b8fa1b91",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp8_mini.jpg?alt=media&token=e565ebb0-5129-4269-a594-e9ea2baac78a"
         },
         {
             "name": "Tectonic",
-            "bg": "https://drive.google.com/uc?export=download&id=1mmMHFbV4JceTRndBDTLhUPzNcOz6u1It",
-            "mini": "https://drive.google.com/uc?export=download&id=1yrr844XtM3oF0wMdKFTiHQqSPVWi5zA_"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp9.jpg?alt=media&token=b24c40d8-8049-4363-8ee8-c001c78e6139",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp9_mini.jpg?alt=media&token=53a67253-fd27-439b-8b67-0941f9df610b"
         },
         {
             "name": "Flower",
-            "bg": "https://drive.google.com/uc?export=download&id=1mR1_khkyn9QzCMQnSs_BKmCP60nrrWvh",
-            "mini": "https://drive.google.com/uc?export=download&id=1rphSgfkOMK5MTJ0oKvmONPgh46FWT7PS"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp10.jpg?alt=media&token=2ae9bd04-6734-49b3-bcf1-9c7bab147337",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp10_mini.jpg?alt=media&token=1d8d97e5-05b3-45a2-84c7-873d75c367ff"
         },
         {
             "name": "Tiger",
-            "bg": "https://drive.google.com/uc?export=download&id=1ZY9p8cZNUN--K2oI6J6g1boKLgPjmE0J",
-            "mini": "https://drive.google.com/uc?export=download&id=1OufYbMTeQIVhC9Fw4DDE1oH-7VtwIaGx"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp11.jpg?alt=media&token=6d3a4d4d-a986-4481-a709-cf5f8870f2c9",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp11_mini.jpg?alt=media&token=9ecdc7d1-fcab-4e46-8ff5-893b53f51cde"
         },
         {
             "name": "Leopard",
-            "bg": "https://drive.google.com/uc?export=download&id=1xzjBZBuLo0_ly2dtJf0XEPirnVV-LY8r",
-            "mini": "https://drive.google.com/uc?export=download&id=14wWhC9kV42kEqvMcJodZdUyIBEkgrRj3"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp12.jpg?alt=media&token=8bcac4e1-54a1-4d71-b7f3-bfa08e55a287",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp12_mini.jpg?alt=media&token=6ad30f6f-7bb0-4479-acea-9e7b33ae80a5"
         },
         {
             "name": "Lion",
-            "bg": "https://drive.google.com/uc?export=download&id=14VYuZ_mZqZjUN1xgqVl4dmNL10P2q8cb",
-            "mini": "https://drive.google.com/uc?export=download&id=1MOkeoJgQ6LuDnkdehQe3-HZPGFvJrxgt"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp13.jpg?alt=media&token=053991a3-c7a0-4d97-8d90-b4818bf961fe",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp13_mini.jpg?alt=media&token=40a0435f-7bbd-492d-9faa-1308ec26ed84"
         },
         {
             "name": "Mountain Lion",
-            "bg": "https://drive.google.com/uc?export=download&id=1ldJIJPIjm5Nc1KouGOay4DpEqRtq3QyH",
-            "mini": "https://drive.google.com/uc?export=download&id=1IzZxZWdovFET09HeYoHEmvGF7a9897RH"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp14.jpg?alt=media&token=a7d49699-3127-426c-800c-49f238c5e1ec",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp14_mini.jpg?alt=media&token=ec623288-f3a3-4ca5-983c-8b83127b67f2"
         },
         {
             "name": "Mavericks",
-            "bg": "https://drive.google.com/uc?export=download&id=1FxcLH8qJPdFN4YWcdREpoIA3gqPyZ3C8",
-            "mini": "https://drive.google.com/uc?export=download&id=1vMK1YNqU9oEAB4kDECXwB8pcbOBk9wIo"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp15.jpg?alt=media&token=a47d0a76-be71-4081-8ce1-81a8b50866a1",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp15_mini.jpg?alt=media&token=a7263959-95d2-4f05-ba85-877881ef38b0"
         },
         {
             "name": "Yosemite",
-            "bg": "https://drive.google.com/uc?export=download&id=1cI3f_RWOl-IKy18ANcTQF-pNPbqjOhIH",
-            "mini": "https://drive.google.com/uc?export=download&id=1T80_9tbJ13TEFOsNnhr4etFopB9NbwKa"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp16.jpg?alt=media&token=206ef24f-ab65-4e32-8b87-1554be26aacf",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp16_mini.jpg?alt=media&token=3dfecf2f-de65-48e1-833f-33dea8b446b9"
         },
         {
             "name": "El Captain",
-            "bg": "https://drive.google.com/uc?export=download&id=1GEZRw2aFE61lhAwtIJ_tAis0Y1PHZtps",
-            "mini": "https://drive.google.com/uc?export=download&id=1Itj00hX46VnvSANy_xiXMSbSzUi14Zxj"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp17.jpg?alt=media&token=66adf8f4-ce67-4cad-bdbe-1155d8a641a0",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp17_mini.jpg?alt=media&token=9ed0fb35-a336-494c-9c4e-4aa0dbd5ed19"
         },
         {
             "name": "Sierra",
-            "bg": "https://drive.google.com/uc?export=download&id=1v8txMW0rOWQI3QW7fJOoh393ryK62V7A",
-            "mini": "https://drive.google.com/uc?export=download&id=1k2z6Gski13nrI00wjhmuncrHdhAg02sV"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp18.jpg?alt=media&token=4957f20f-a3f5-4058-bdf7-da7ac3242d4d",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp18_mini.jpg?alt=media&token=ab834b8f-a004-41e9-a8f7-869876005557"
         },
         {
             "name": "Hight Sierra",
-            "bg": "https://drive.google.com/uc?export=download&id=1IHOm27bB6_mKB6cuNxEj3FgYM3GVyRpO",
-            "mini": "https://drive.google.com/uc?export=download&id=17jUcHiKVxgkbALCdR3D2V1AUyWtWELO7"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp19.jpg?alt=media&token=c89ad633-ef37-4abd-9e13-27a93e0f0a64",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp19_mini.jpg?alt=media&token=49b21ca2-00c7-48b1-b9e9-e9ae874c7b1a"
         },
         {
             "name": "Mojave Day",
-            "bg": "https://drive.google.com/uc?export=download&id=1eSaugIT9f9xzeIAVFSdsS1PzGre3rqV9",
-            "mini": "https://drive.google.com/uc?export=download&id=164YTeo2v-o2zcjMNIec8yZpjXe6QHO9O"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp20.jpg?alt=media&token=a1948d14-dc46-4833-a72d-cbe15d3e0263",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp20_mini.jpg?alt=media&token=117b285c-4104-4e99-a320-ae025b3ca020"
         },
         {
             "name": "Mojave Night",
-            "bg": "https://drive.google.com/uc?export=download&id=1SQWRBC-Vl9xMNuQsg2OmyL3F_eAXRLv6",
-            "mini": "https://drive.google.com/uc?export=download&id=17OchUq2P5oAZ_lAN8FYUFbSzDx6ppJBJ"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp21.jpg?alt=media&token=d4ad371c-f976-41cd-9fa3-a58d9975d177",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp21_mini.jpg?alt=media&token=d36ca448-ae7b-4dab-8063-be266999cd66"
         },
         {
             "name": "Catalina Day",
-            "bg": "https://drive.google.com/uc?export=download&id=1s-avdcx3THx7liP2aY7AxlI8LzT57b88",
-            "mini": "https://drive.google.com/uc?export=download&id=17knM8Na44DUtM6_Nbrk8DyMsCMNolB33"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp22.jpg?alt=media&token=080489e8-f8c1-44d7-b969-3d2b2e247de6",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp22_mini.jpg?alt=media&token=751b6adb-5993-4bf3-9677-5bbcd5a76794"
         },
         {
             "name": "Catalina Night",
-            "bg": "https://drive.google.com/uc?export=download&id=1Lyqqu4r5ZVtfWk_hMbIbS3EWXFHk77mQ",
-            "mini": "https://drive.google.com/uc?export=download&id=1eCwZpD63j19aFJbMP4y1N01gosldImf-"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp23.jpg?alt=media&token=d4f98b90-7b3c-4c72-9be0-108d6a111046",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp23_mini.jpg?alt=media&token=a98134ba-325a-4009-b8fd-fa530790f1d3"
         },
         {
             "name": "Big Sur Day",
-            "bg": "https://drive.google.com/uc?export=download&id=12wfOF9img_NRxy5eBdX81HTK98geZP2Y",
-            "mini": "https://drive.google.com/uc?export=download&id=1m96PwhUAd4vRgnDVUkFTc7dLK2Xe8uOQ"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp24.jpg?alt=media&token=f9a5bd50-0203-451f-b121-cde289d8adee",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp24_mini.jpg?alt=media&token=521e1fb6-7447-4e9f-82f9-785c26ae2a85"
         },
         {
             "name": "Big Sur Night",
-            "bg": "https://drive.google.com/uc?export=download&id=1eVbpKVlvjPUVBf-eBPMI-AE-veTn0tzh",
-            "mini": "https://drive.google.com/uc?export=download&id=1vBFBEDy4dL6oES-s9p-1KAvynU3nnmna"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp25.jpg?alt=media&token=e799a1d4-f62b-4a90-ae89-05e2480a48ad",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp25_mini.jpg?alt=media&token=bc933487-8dd7-4e33-9c74-02c3c26fe27e"
         },
         {
             "name": "Monterey",
-            "bg": "https://drive.google.com/uc?export=download&id=134Aazl2CC43YZO7rdfBlck6IVF-UQXa2",
-            "mini": "https://drive.google.com/uc?export=download&id=11hqSQVA6mFPy_vPFmgndFlkR9O3rnNY_"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp26.jpg?alt=media&token=74d0f94b-e002-4845-88a1-4f4c6873de98",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp26_mini.jpg?alt=media&token=a9a4a80e-ffe3-4563-96ef-e6285af19a38"
         },
         {
             "name": "Ventura",
-            "bg": "https://drive.google.com/uc?export=download&id=1kS5HJW4E6wpCGl6xi5iIy50yYojmTW9V",
-            "mini": "https://drive.google.com/uc?export=download&id=1JTp_OApFDKQm7qcG7SexLshCj_dh4xK-"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp27.jpg?alt=media&token=bf490167-036e-40c4-a86e-fe25c32e22b7",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp27_mini.jpg?alt=media&token=c0a59fec-ee5e-48cf-b1c3-d7079819b9fd"
         },
         {
             "name": "Win 11 Dark",
-            "bg": "https://drive.google.com/uc?export=download&id=1XIpUE5c94K6NUn7FX2c4r1d9jovBXgGz",
-            "mini": "https://drive.google.com/uc?export=download&id=14c6h_PZHVxeTZt71C1R45iLY6QVlvYte"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp28.jpg?alt=media&token=6be45246-b5d0-4559-a115-5baa97cf810a",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp28_mini.jpg?alt=media&token=664ada15-4398-48f7-b9bc-7e38fbc2a216"
         },
         {
             "name": "Win 11 Light",
-            "bg": "https://drive.google.com/uc?export=download&id=1SQmeI3HqCXD0Yd9Ze9HA6a6d0uKUowp8",
-            "mini": "https://drive.google.com/uc?export=download&id=1PLpIHpYpQpDb6OU3RbpotLZNIQhREVx4"
+            "bg": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp29.jpg?alt=media&token=5c9ed2e0-123a-470e-a390-8932090b19c5",
+            "mini": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/wallpaper%2Fwp29_mini.jpg?alt=media&token=2534abd0-861d-4032-ae13-cfcfeec09899"
         }
     ],
     "product": [
