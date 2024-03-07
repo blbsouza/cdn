@@ -6,7 +6,6 @@
         "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Fpuzzlecolor.svg?alt=media&token=1afd76dc-e64d-4d4c-a758-fef182dd01e8",
         "link": "https://blbtech-prevperdas.netlify.app/landing-page.html",
         "download": "https://drive.google.com/file/d/1FDqKwQfozvgLDcP9jWbWFIBgF1OF90z0/view?usp=share_link",
-        "amostra": "https://blbtech-prevperdas.netlify.app/",
         "help": "https://blbtech-prevperdas.netlify.app/help.html"
     },
     "doclider": {
@@ -14,7 +13,6 @@
         "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Fdoclider.svg?alt=media&token=f2697580-8bf4-44cd-ba93-92de33c1515b",
         "link": "https://blbtech-doclider.netlify.app/landing-page.html",
         "download": "https://blbtech-doclider.netlify.app/",
-        "amostra": "https://blbtech-doclider.netlify.app/",
         "help": "https://blbtech-doclider.netlify.app/help.html"
     },
     "ctrlcoletor": {
@@ -22,8 +20,19 @@
         "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Flogo-ctrlcoletor.svg?alt=media&token=400d4c3a-9622-42b3-82e2-3905753ebc2d",
         "link": "https://blbtech-ctrlcoletor.netlify.app/landing-page.html",
         "download": "https://blbtech-ctrlcoletor.netlify.app/",
-        "amostra": "https://blbtech-ctrlcoletor.netlify.app/",
         "help": "https://blbtech-ctrlcoletor.netlify.app/help.html"
+    },
+    "proleaf": {
+        "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Fleaf.svg?alt=media&token=8fc98a8c-7a27-4c67-a984-d5a9fdd7b4cd",
+        "link": "#",
+        "clientes": {
+            "version": 7.0,
+            "download": "#"
+        },
+        "isvutility": {
+            "version": 0,
+            "download": "#"
+        }
     },
     "walls": [
         {
