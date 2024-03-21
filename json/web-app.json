@@ -35,8 +35,16 @@
         }
     },
     "Ramais": {
+        "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Frama.svg?alt=media&token=4fcb1058-39a9-4003-810f-4e0afcc67f1a",
         "version": 2.0,
-        "download": "#"
+        "download": "#",
+        "link": "#"
+    },
+    "desvincula": {
+        "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Fdesvincula.svg?alt=media&token=f2d6d9d8-ce6c-47c1-a802-6b3b4e3658ba",
+        "version": 1.0,
+        "download": "#",
+        "link": "#"
     },
     "walls": [
         {
