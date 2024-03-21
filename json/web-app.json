@@ -34,6 +34,10 @@
             "download": "#"
         }
     },
+    "Ramais": {
+        "version": 2.0,
+        "download": "#"
+    },
     "walls": [
         {
             "name": "Atacadão 1",
