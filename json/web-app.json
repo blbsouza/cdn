@@ -43,8 +43,8 @@
     "desvincula": {
         "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Fdesvincula.svg?alt=media&token=f2d6d9d8-ce6c-47c1-a802-6b3b4e3658ba",
         "version": 1.0,
-        "download": "https://drive.google.com/file/d/1VrEld0jNM6N-MGdfynqvOsEHXOAicpMZ/view?usp=sharing",
-        "link": "#"
+        "download": "https://drive.google.com/file/d/1uR8hjkYbbGa6_KTZNjeG8k2pIL5BZUIK/view?usp=drive_link",
+        "link": "https://pages-ea3.pages.dev/Brdesvincula/"
     },
     "task-manager": {
         "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Ftask.svg?alt=media&token=b9ac7192-fced-42a7-bb94-a227a489e67e",
@@ -203,7 +203,8 @@
       {"name": "prevperdas"},
       {"name": "doclider"},
       {"name": "proleaf"},
-      {"name": "ramais"}
+      {"name": "ramais"},
+      {"name": "desvincula"}
     ],
     "contact": { "mail": "blbsouza11@gmail.com", "phone": "(85) 9 9989-6712" }
 }
