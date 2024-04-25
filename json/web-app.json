@@ -26,12 +26,16 @@
         "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Fleaf.svg?alt=media&token=8fc98a8c-7a27-4c67-a984-d5a9fdd7b4cd",
         "link": "#",
         "clientes": {
-            "version": 7.0,
-            "download": "#"
+            "version": 7.1,
+            "download": "https://drive.google.com/file/d/1cckusmSKq7rF-GQ4Bi47TQOdwDimmGvG/view?usp=drive_link"
         },
         "isvutility": {
             "version": 0,
             "download": "#"
+        },
+        "batimento": {
+            "version": 1.1,
+            "download": "https://drive.google.com/file/d/1wV_CZ0zpqbq9XQqwZZqrIwRbgHEE_Wt5/view?usp=sharing"
         }
     },
     "ramais": {
