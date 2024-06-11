@@ -40,8 +40,8 @@
     },
     "ramais": {
         "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Frama.svg?alt=media&token=4fcb1058-39a9-4003-810f-4e0afcc67f1a",
-        "version": 2.0,
-        "download": "https://drive.google.com/file/d/1gc9HegBNPwTPLcBh5icAOZwTx_y9Do3F/view?usp=sharing",
+        "version": 2.1,
+        "download": "https://drive.google.com/file/d/1UxyBWX0NaE4ckUcdQ_URaitGllLs4BTg/view?usp=drive_link",
         "link": "https://pages-ea3.pages.dev/ramais/"
     },
     "desvincula": {
@@ -50,11 +50,11 @@
         "download": "https://drive.google.com/file/d/1uR8hjkYbbGa6_KTZNjeG8k2pIL5BZUIK/view?usp=drive_link",
         "link": "https://pages-ea3.pages.dev/Brdesvincula/"
     },
-    "task-manager": {
+    "tm": {
         "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Ftask.svg?alt=media&token=b9ac7192-fced-42a7-bb94-a227a489e67e",
-        "version": 1.0,
-        "download": "https://drive.google.com/file/d/11W2olI5_ziarnl1xn8JUaoUQeCqfY2dL/view?usp=drive_link",
-        "link": "#"
+        "version": 1.1,
+        "download": "https://drive.google.com/file/d/1LL0KZ7tWJ6CJwQ8BHWOy-KF1SmP0pYHj/view?usp=drive_link",
+        "link": "https://pages-ea3.pages.dev/tm/"
     },
     "walls": [
         {
@@ -208,7 +208,8 @@
       {"name": "doclider"},
       {"name": "proleaf"},
       {"name": "ramais"},
-      {"name": "desvincula"}
+      {"name": "desvincula"},
+      {"name": "tm"}
     ],
     "contact": { "mail": "blbsouza11@gmail.com", "phone": "(85) 9 9989-6712" }
 }
