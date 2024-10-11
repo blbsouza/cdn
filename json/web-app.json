@@ -47,6 +47,12 @@
         "download": "https://drive.google.com/file/d/1LL0KZ7tWJ6CJwQ8BHWOy-KF1SmP0pYHj/view?usp=drive_link",
         "link": "https://pages-ea3.pages.dev/tm/"
     },
+    "brscale": {
+        "logo": "https://firebasestorage.googleapis.com/v0/b/web-app-6280e.appspot.com/o/svg%2Fbrscale.svg?alt=media&token=e4c59a34-f20b-49e9-8861-c0b6632293c3",
+        "version": 2.4,
+        "download": "",
+        "link": "https://pages-ea3.pages.dev/brscale/"
+    },
     "walls": [
         {
             "name": "Atacadão 1",
