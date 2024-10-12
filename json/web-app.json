@@ -206,7 +206,8 @@
       {"name": "proleaf"},
       {"name": "ramais"},
       {"name": "desvincula"},
-      {"name": "tm"}
+      {"name": "tm"},
+      {"name": "brscale"}
     ],
     "contact": { "mail": "blbsouza11@gmail.com", "phone": "(85) 9 9989-6712" }
 }
